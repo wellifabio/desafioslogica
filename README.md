@@ -108,4 +108,4 @@ Realize a entrega conforme instruções no final do documento.
 |Entrega|
 |-|
 |Crie um repositório no seu github chamado **desafiologica** e envie os três desafios, crie um arquivo README.md com instruções de quais tecnologias/linguagens de programação utilizou e como executar/testar os programas, caso tenha feito com tecnologias **web** habilite o github pages para este repositório e anexe o link para executar na aba **sobre/about**|
-|Envie o link do repositório neste **[forms](https://forms.gle/cw7gthcvJnfj9tZk6)**|
+|Envie o link do repositório neste **[forms](https://docs.google.com/forms/d/e/1FAIpQLSejcMWMErfDkNRHgDm2C2Ga-YNUU_Ir8khzn-kk-KDAzP-PlA/viewform?usp=sf_link)**|
